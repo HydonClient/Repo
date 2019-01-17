@@ -2,5 +2,9 @@
     {
         "uuid": "75cff0a1-c5f5-4528-9c9f-48f87570065a",
         "cape": "http://static.kodingking.com/hydon/capes/KodingKing-Cape.png"
+    },
+    {
+        "uuid": "7047b2c8-e3dc-4ee0-b160-16d36d5989ab",
+        "cape": "https://github.com/HydonClient/Repo/raw/master/capes/staff-cape.png"
     }
 ]

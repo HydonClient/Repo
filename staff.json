@@ -1,14 +1,17 @@
 [
     {
         "uuid": "75cff0a1-c5f5-4528-9c9f-48f87570065a",
-        "cape": "https://github.com/HydonClient/Repo/raw/master/capes/staff-cape.png"
+        "cape": "https://github.com/HydonClient/Repo/raw/master/capes/staff-cape.png",
+        "wings": true
     },
     {
         "uuid": "b1e7da69-a704-4020-8982-04c972d74cc9",
-        "cape": "https://github.com/HydonClient/Repo/raw/master/capes/staff-cape.png"
+        "cape": "https://github.com/HydonClient/Repo/raw/master/capes/staff-cape.png",
+        "wings": true
     },
     {
         "uuid": "5348cef1-4828-4bed-91a5-15cdeb0b52db",
-        "cape": "https://github.com/HydonClient/Repo/raw/master/capes/staff-cape.png"
+        "cape": "https://github.com/HydonClient/Repo/raw/master/capes/staff-cape.png",
+        "wings": true
     }
 ]

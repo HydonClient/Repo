@@ -554,6 +554,7 @@
                 {
                     "name": "optifine:OptiFine:1.8.9_HD_U_I7",
                     "launcher": {
+                        "optifine": true,
                         "download": "https://github.com/HydonClient/Repo/raw/master/resources/installer/OptiFine_1.8.9_HD_U_I7.jar"
                     }
                 },
